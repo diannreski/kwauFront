@@ -1,0 +1,307 @@
+{
+  "bananaTree": {
+    "title": "Giant Forest Banana Tree (<em>Musa Ingens</em> W.Simmonds)",
+    "description": "Kwau Village is home to giant forest banana trees, which are one of Papua's endemic species. These banana trees can grow up to 20 meters tall and have very large leaves."
+  },
+  "birdWatching": {
+    "title": "Bird Watching - Papua's Endemic Birds",
+    "description": "The main attraction of Kwau Village is Papua's endemic birds, including the Western Parotia, which can be enjoyed through bird watching activities. Kwau Village is home to various rare and exotic Papua endemic bird species.",
+    "speciesTitle": "Bird Species That Can Be Observed:",
+    "species": [
+      "Western Parotia (Parotia sefilata) - Known locally as Cendrawasih Parotia Barat or Burung Menari (“Dancing Bird”), this species is famous for its ballerina-like courtship dance performed by males to attract females.",
+      "Magnificent Bird of Paradise (Cicinnurus magnificus) - In Indonesian, it's called Cendrawasih Raja yang Indah, meaning “The Magnificent Royal Bird of Paradise,” admired for its vivid colors and elaborate mating displays.",
+      "Buff-tailed Sicklebill (Epimachus albertisi) - Known as Cendrawasih Paruh-Sabit Ekor-Kuning, this bird is recognized by its long, curved bill and yellowish tail, adapted for feeding deep within flowers.",
+      "Long-tailed Paradigalla (Paradigalla carunculata) - Called Cendrawasih Paradigalla Ekor Panjang in Indonesia, this species stands out with its long tail and colorful facial wattles, even though its plumage is relatively plain.",
+      "Black Sicklebill (Epimachus fastosus) - Known locally as Cendrawasih Paruh Sabit Hitam, this bird is one of the longest birds of paradise and performs dramatic displays using its saber-like bill and shimmering feathers.",
+      "Vogelkop Bowerbird (Amblyornis inornatus) - In Indonesian, it's called Burung Namdur Vogelkop, known as a natural artist. Males build and decorate elaborate “bowers” to attract females, making it one of the most creative animals in the natural world.",
+      "Arfak Astrapia (Astrapia nigra) - Known as Cendrawasih Astrapia Arfak, this stunning bird is considered one of the most beautiful birds-of-paradise, with long black streaming tail feathers and iridescent plumage."
+    ],
+    "bestTimeTitle": "Best Time for Bird Watching:",
+    "bestTime": [
+      "Morning (05:30 - 08:00): Highest bird activity",
+      "Evening (16:00 - 18:00): Birds return to nests",
+      "Dry season (April - September): Best visibility"
+    ],
+    "facilitiesTitle": "Available Facilities:",
+    "facilities": [
+      "Experienced local guide",
+      "Binoculars",
+      "Bird watching tower",
+      "Trail map and bird checklist"
+    ]
+  },
+  "butterflies": {
+    "title": "Papua Butterfly Diversity",
+    "description": "Kwau Village is home to various beautiful and diverse butterfly species, making it an attractive place for butterfly observation. Papua's tropical forest has extraordinary butterfly diversity with stunning exotic colors.",
+    "speciesTitle": "Butterfly Species That Can Be Observed:",
+    "species": [
+      "King Butterfly (Troides helena) - Large butterfly with shiny golden wings",
+      "Birdwing Butterfly (Ornithoptera priamus) - One of the largest butterflies in the world",
+      "Swallowtail Butterfly (Papilio ulysses) - Stunning metallic blue",
+      "Leaf Butterfly (Kallima paralekta) - Camouflage expert like dry leaves",
+      "Papua Morpho Butterfly - Shimmering electric blue"
+    ],
+    "bestTimeTitle": "Best Time for Observation:",
+    "bestTime": [
+      "Morning (08:00 - 11:00): Butterflies actively seeking nectar",
+      "Bright midday: Optimal activity in open areas",
+      "After rain: Butterflies appear in large numbers",
+      "Flowering season (October - February): Most varieties"
+    ],
+    "locationsTitle": "Best Observation Locations:",
+    "locations": [
+      "Forest edge areas: Habitat transition",
+      "Rivers and springs: Butterfly drinking spots",
+      "Local flower gardens: Nectar sources",
+      "Forest trails: Various forest species"
+    ],
+    "tipsTitle": "Observation Tips:",
+    "tips": [
+      "Wear bright colored clothing to attract butterflies",
+      "Move slowly and avoid sudden movements",
+      "Bring a camera with macro lens",
+      "Use local guide for species identification"
+    ],
+    "quote": "Papua is home to more than 600 butterfly species, making it a paradise for lepidoptera enthusiasts"
+  },
+  "waterfall": {
+    "title": "Kwau Village Waterfall",
+    "description": "The waterfall in Kwau Village is an amazing natural attraction, offering spectacular views and a soothing atmosphere. Surrounded by pristine tropical forest, this waterfall becomes a perfect natural oasis for relaxation and adventure.",
+    "characteristicsTitle": "Waterfall Characteristics:",
+    "characteristics": [
+      "Height: About 25-30 meters with multiple cascade",
+      "Water Flow: Stable throughout the year, strongest during rainy season",
+      "Natural Pool: 2-3 meters deep, safe for swimming",
+      "Water Temperature: Cool and fresh (18-22°C)",
+      "Water Quality: Clear and clean directly from mountain springs"
+    ],
+    "activitiesTitle": "Activities That Can Be Done:",
+    "activities": [
+      "Swimming in natural pool",
+      "Landscape and nature photography",
+      "Meditation and yoga by the water",
+              "Tracking around the waterfall area",
+      "Family picnic in the provided area"
+    ],
+    "accessTitle": "Access and Facilities:",
+    "access": [
+              "Distance from village: 1.5 km (30-45 minutes tracking)",
+      "Difficulty level: Easy to moderate",
+      "Trail: Safe footpath already made",
+      "Facilities: Rest area, simple toilet, changing room"
+    ],
+    "bestTimeTitle": "Best Time to Visit:",
+    "bestTime": [
+      "Dry season (April-September): Clear water, easy access",
+      "Morning (07:00-10:00): Best light for photos",
+      "Evening (15:00-17:00): Romantic atmosphere",
+      "After rain: Maximum water volume (be careful of slippery conditions)"
+    ]
+  },
+  "orchids": {
+    "title": "Papua Orchid Plant Diversity",
+    "description": "Orchids are one of the ornamental plants that are highly sought after by the community. In Kwau Village, there are various types of orchids that grow lushly and beautifully, making this area a paradise for orchid and botany enthusiasts.",
+    "speciesTitle": "Papua Endemic Orchid Species:",
+    "species": [
+      "Dendrobium nobile Papua - Dendrobium orchid with white-purple flowers",
+      "Paphiopedilum mastersianum - Lady slipper orchid with unique patterns",
+      "Bulbophyllum papuanum - Micro orchid with distinctive aroma",
+      "Coelogyne asperata - White orchid with spotted petals",
+      "Cymbidium hartinahianum - Large orchid with yellow flowers"
+    ],
+    "habitatTitle": "Habitat and Characteristics:",
+    "habitat": [
+      "Epiphytic: Grows attached to forest trees",
+      "Terrestrial: Grows in soil with thick humus",
+      "Lithophytic: Grows in rock crevices",
+      "Altitude: 500-2000 masl with cool climate",
+      "Humidity: 70-85% throughout the year"
+    ],
+    "bloomingTitle": "Blooming Season:",
+    "blooming": [
+      "Dry season (June-September): Dendrobium and Bulbophyllum",
+      "Rainy season (December-March): Paphiopedilum and Coelogyne",
+      "Year-round: Cymbidium (with certain peaks)",
+      "Special conditions: Some species bloom after dry periods"
+    ],
+    "conservationTitle": "Conservation and Education:",
+    "conservation": [
+      "In-situ conservation program in natural habitat",
+      "Nursery and tissue culture",
+      "Community education about orchid protection",
+      "Biodiversity and ecology research"
+    ],
+    "tipsTitle": "Tips for Observing Orchids:",
+    "tips": [
+      "Use magnifying glass for flower details",
+      "Do not pick or damage plants",
+      "Document with photos from various angles",
+      "Note location and habitat conditions",
+      "Use local guide for identification"
+    ],
+    "quote": "Papua has more than 300 orchid species, 40% of which are endemic species not found elsewhere"
+  },
+  "dance": {
+    "title": "Tumbu Tanah Dance - Arfak Tribe Cultural Heritage",
+    "description": "Kwau Village also offers a rich cultural experience, including traditional dances originating from the Arfak tribe, namely the Tumbu Tanah Dance. This dance is an important part of local community culture and is often performed in traditional ceremonies.",
+    "meaningTitle": "Meaning and Philosophy:",
+    "meaning": [
+      "Tumbu: Means \"respect\" in Arfak language",
+      "Tanah: Symbolizes earth and nature that gives life",
+      "Philosophy: Expression of gratitude to nature and ancestors",
+      "Spirituality: Connection between humans, nature, and spiritual world",
+      "Identity: Symbol of pride and Arfak tribe identity"
+    ],
+    "movementsTitle": "Dance Movements and Elements:",
+    "movements": [
+      "Foot Movements: Mimicking forest animal steps like cassowary",
+      "Hand Movements: Symbolizing bird wings and tree branches",
+      "Formation: Circle symbolizing life cycle",
+      "Tempo: Starts slow, gets faster towards climax",
+      "Coordination: Harmony between male and female dancers"
+    ],
+    "costumeTitle": "Costume and Props:",
+    "costume": [
+      "Bird of Paradise Feathers: Head decoration symbolizing beauty",
+      "Koteka/Skin Skirt: Traditional clothing made from natural materials",
+      "Bead Accessories: Jewelry from colorful beads",
+      "Body Paint: Traditional motifs with natural dyes",
+      "Musical Instruments: Tifa, bamboo flute, and traditional gong"
+    ],
+    "eventsTitle": "Events and Performances:",
+    "events": [
+      "Traditional Rituals: Wedding ceremonies, initiation, harvest",
+      "Cultural Festivals: Annual celebrations and holidays",
+      "Guest Reception: Welcome ceremony for tourists",
+      "Education: Cultural learning for young generation"
+    ],
+    "experienceTitle": "Tourist Experience:",
+    "experience": [
+      "Watch live performance with authentic dancers",
+      "Learn basic movements from local dance master",
+      "Understand the meaning of each movement and symbolism",
+      "Photo together with traditional costumes",
+      "Workshop making simple dance props"
+    ],
+    "quote": "Tumbu Tanah Dance is not just a performance, but a moving prayer that connects humans with the universe"
+  },
+"house": {
+    "title": "Thousand-Legged House - Traditional Arfak Architecture",
+    "description": "The Millipede House is one of the unique attractions in Kwau Village. Made of wood, the house boasts a distinctive design, with numerous supporting pillars resembling millipedes. This traditional architecture reflects local wisdom in adapting to nature.",
+    "constructionTitle": "KConstruction and Materials:",
+    "construction": [
+     "The Millipede House is built using natural materials available in the surrounding forest, such as bamboo, wood, and sago palm leaves for the roof. The numerous, closely spaced support pillars give the house a distinctive millipede-like appearance. The raised platform protects the house from soil moisture and wild animals, and facilitates air circulation."
+    ],
+    "philosophyTitle": "Philosophy and Meaning:",
+    "philosophy": [
+      "The philosophy of this house is closely linked to togetherness and mutual cooperation. The numerous supporting pillars symbolize the strength created by community togetherness. Furthermore, this stilt house symbolizes human adaptation to nature—in harmony with the surrounding Arfak Mountains."
+    ],
+    "functionTitle": "Function and Space:",
+    "function": [
+      "Residence for the Arfak people.",
+      "Traditional meeting hall for deliberations, traditional ceremonies, or communal activities.",
+      "Multifunctional space: the interior of the house is not divided by many partitions, so it can be used for sleeping, storing crops, or receiving guests."
+    ],
+    "advantagesTitle": "Architectural Excellence:",
+    "advantages": [
+      "Environmentally friendly because it uses natural materials.",
+      "It is cool inside because of the air circulation from the gaps in the bamboo",
+      "Earthquake resistant due to flexible wood and bamboo construction.",
+      "Its height from the ground provides protection from small floods and wild animals."
+    ],
+  "experienceTitle": "Traveler Experience:",
+"experience": [
+  "For tourists who visit Kampung Kwau and stay at Rumah Kaki Seribu, they can feel:",
+  "Closeness to nature due to its location in the middle of a mountain forest.",
+  "Traditional atmosphere far from the noise of the city.",
+  "The warmth of the local community who welcomes you with friendliness.",
+  "A unique experience sleeping in a traditional West Papuan house with cool mountain air."
+],
+
+    "conservationTitle": "Conservation and Preservation:",
+    "conservation": [
+      "The Kwau Village community together with the local government and the cultural lover community are carrying out preservation efforts by:",
+      "Teaching the younger generation how to build a Thousand-Legged House.",
+      "Using this house as an ecotourism attraction, so that tourists can get to know and support the local economy.",
+      "Maintaining natural materials so that the architecture is not lost due to modernization.",
+      "Linking the house with forest conservation, because the materials come from nature, thus encouraging the community to maintain sustainable forests."
+    ],
+    "quote": "The Centipede House is proof of ancestral wisdom in creating dwellings that harmonize with nature"
+  },
+   "kopi": {
+    "title": "Kwau Coffee - Coffee from Kwau Village",
+    "description": "Kwau Village, located in Mokwam District, Manokwari Regency, is not only known as a world-renowned birdwatching destination but also holds tremendous local potential in agriculture—particularly coffee. Coffee cultivated in Kwau is grown organically in the highlands of the Arfak Mountains, at an ideal altitude for producing high-quality coffee beans. Without the use of chemical pesticides, the coffee plants are naturally cared for by the local community, who have passed this knowledge down through generations. Kwau coffee is known for its distinctive flavor: a fragrant aroma with hints of chocolate and spice, and a balanced taste of light acidity and a smooth texture. Harvesting and processing are carried out manually, reflecting the community's commitment to quality and sustainability. Now, coffee from Kwau Village is being marketed as part of efforts to empower the local economy and promote agrotourism. Tourists can directly witness the process of planting and processing the coffee beans, and even sample fresh coffee brewed by local residents.",
+     "constructionTitle": "Kwau Coffee Tree:",
+    "construction": [
+      "Coffee cherries are only picked when they are fully ripe and a deep red color."
+    ],
+    "philosophyTitle": "Unpeeled Kwau Coffee Fruit:",
+    "philosophy": [
+      "Kwau Coffee Fruit: This picked fruit is ready to be peeled. A deep red color indicates optimal sugar content. Damaged, green, or rotten fruit is removed. Those that pass the selection process proceed to the next stage."
+    ],
+    "functionTitle": "Coffee fruit after peeling:",
+    "function": [
+      "Kwau Coffee Fruit: The fruit is peeled from the skin and the coffee beans are removed so they can be dried in the sun."
+    ],
+    "advantagesTitle": "Coffee beans dried in the sun:",
+    "advantages": [
+      "Traditional Drying: Coffee beans are dried on bamboo racks or other mats. This process involves drying them until they are completely dry.."
+    ],
+  
+    "coffeeTitle": "The process of peeling the skin that has been dried in the sun:",
+    "coffee": [
+      "Peeling of the Skin: This is an important and unique process in Kampung Kwau, peeling the horn skin (hard silvery skin) is done in two ways:",
+      "First Traditional Manual: For small-scale or local consumption, some farmers still use wooden pestles (mortars and pestles) to break down the husks. This process is time-consuming but creates a closer connection to the harvest.",
+      "The Two Simple Huller Machines: For large-scale sales, local farmers or cooperatives use diesel-powered cocoa hulling machines. These machines remove the husk and separate the beans from the husk flakes."
+    ],
+    "conservationTitle": "Final Sort:",
+    "conservation": [
+      "The coffee beans are re-sorted manually. Only the best beans are sent to export sacks or local roasting machines."
+    ],
+    
+    "quote": "If you want to get Kwau coffee beans, you can come directly to Kwau Village, Mokwam District, or you can contact the contact below.",
+    "contact": "Mr. Hans Mandacan (Whatsapp: +62821 9946 9312)"
+    
+  },
+   "sayur": {
+    "title": "Kwau Village Vegetables",
+    "description": "Kwau Village is not only famous for its natural beauty and diverse birdlife, but also for its fresh, natural agricultural produce. Local residents grow a variety of vegetables such as mustard greens, cabbage, spinach, tomatoes, carrots, chilies, tubers, and many more in small gardens around their homes and on the mountain slopes. Vegetables are grown traditionally without chemicals, using organic fertilizers and clean water from mountain springs. The process from planting to harvest is carried out independently by the villagers, resulting in high-quality vegetables with a natural flavor. These agricultural products are not only for daily consumption but also serve as a potential source of local economic and food security. Tourists visiting Kwau can see firsthand how vegetables are grown and even participate in gardening activities with the residents.",
+    "experienceTitle": "Vegetables from Kwau Village are also sold at Wosi Market:",
+    "experience": [
+      "Papuan mothers from Kwau bring their garden produce to Wosi Market in a rented pickup truck. Those looking for healthy, local food can shop directly at Wosi Market, from the Papuan mothers from Kwau Village. Every vegetable you buy not only supports the local economy, but also supports the spirit and hope of Kwau Village, so that the community can continue farming with pride."
+    ],
+    "quote": "If you want to get vegetables from Kwau Village, you can come directly to Kwau Village, Mokwam District or you can come directly to Wosi Market, it is located in front of the Hilux Car parking lot. Enter inside and you can also contact the contact below.",
+     "contact": "Mr. Hans Mandacan (Whatsapp: +62821 9946 9312)"
+  },
+      "usaha": {
+    "title": "Kwau Village Business - Local Economy",
+    "description": "Kwau Village is not only rich in natural tourism potential but also boasts a variety of economic enterprises managed by the local community. These businesses provide a vital source of income and demonstrate the creativity and entrepreneurial spirit of the Kwau Village community in developing a sustainable local economy.",
+    "businessTypesTitle": "Red Fruit Oil:",
+    "businessTypes": [
+      "Red Fruit Oil is guaranteed halal, URINYAI Production, Jln Bambu Kwau, Kampung Kwau, Mokwam District, Manokwari, West Papua, Telephone: 0812 4864 7103",
+      "Directions for use: for sick people, adults take 2x1 tablespoon a day and children take 2x1 teaspoon a day; to maintain stamina, adults take 1x1 tablespoon a day and children take 1x1 teaspoon a day; it is best consumed after meals and stored in a cool place.",
+      "Composition: beta-carotene, alpha-tocopherol, energy, protein, fat, carbohydrates, calcium, phosphorus, iron, vitamin B1, vitamin C, niacin, oleic acid, linoleic acid, and decanoate, without preservatives and coloring agents; useful for preventing night blindness, increasing body stamina, facilitating metabolism, preventing premature aging, and has anti-cancer and anti-tumor properties.",
+      "Prevents night blindness, increases body stamina, accelerates metabolism, prevents premature aging, anti-cancer and anti-tumor"
+    ],
+    "fruitTypesTitle": "Chayote:",
+    "fruitTypes": [
+      "Chayote is a staple crop in Kwau Village, thanks to its fertile soil and cool mountain climate. The plant is easy to care for and can be harvested relatively quickly. Residents of Kwau Village typically grow chayote in their family gardens for daily needs and to sell at the market. Its refreshing flavor and soft texture make chayote a popular ingredient in various dishes, including clear vegetable soup, stir-fries, and even mixed with lodeh (Indonesian traditional vegetable soup)."
+    ],
+      "pineappleTypesTitle": "Pineapple:",
+    "pineappleTypes": [
+      "Pineapples are one of the superior fruits produced in Kampung Kwau. These plants thrive in the fertile mountain soil and cool air, producing sweet, fresh, and aromatic fruit. The people of Kampung Kwau use them for personal consumption and for sale at local markets."
+    ],
+     "alpukatTypesTitle": "Avocado:",
+    "alpukatTypes": [
+      "Avocados from Kwau Village are known for their thick, soft flesh and naturally sweet, savory flavor, grown in the fertile, cool mountain soil. Kampung Kwau is renowned for its soft, sweet milk avocados and thick, savory butter avocados, both of which thrive in the nutrient-rich mountain soil."
+    ],
+     "nokenTypesTitle": "Noken of Kwau Village:",
+    "nokenTypes": [
+      "Noken are traditional Papuan bags made from bark fiber or thread, hand-woven using a special technique. In Kwau Village, noken are not only a daily tool for carrying garden produce or necessities, but also a symbol of cultural identity and local wisdom. Noken made by the Kwau people are known for their strength, durability, and unique motifs that represent nature and local life."
+    ],
+  
+    "quote": "Local businesses in Kwau Village are living proof that indigenous communities can develop a sustainable economy while preserving their culture and natural environment. If you'd like to purchase, please contact the Kampung Kwau Community number below.",
+    "contact": "Kwau Village Community (Telephone: 0812 4049 5893)"
+  }  
+
+} 
